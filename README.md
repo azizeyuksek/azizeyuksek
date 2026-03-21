@@ -1,7 +1,7 @@
 
 ## 👋 Merhaba, Ben Azize Yüksek!
 
-### 💻 Bilgisayar Mühendisliği Öğrencisi | Backend & Siber Güvenlik Meraklısı
+### 💻 Bilgisayar Mühendisliği Öğrencisi | Backend & Siber Güvenlik 
 
 Osmaniye Korkut Ata Üniversitesi 2. sınıf öğrencisiyim. Yazılım dünyasında kendimi geliştirmeyi, karmaşık problemleri kodla çözmeyi ve siber güvenlik dünyasının derinliklerini keşfetmeyi seviyorum.
 
