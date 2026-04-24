@@ -19,8 +19,8 @@ Osmaniye Korkut Ata Üniversitesi 2. sınıf öğrencisiyim. Yazılım dünyası
 
 
 ### 🎯 Odaklandığım Alanlar
-* 🛡️ **Siber Güvenlik:** Ağ güvenliği ve sızma testleri üzerine çalışmalar.
 * ⚙️ **Backend Geliştirme:** Python ve Java ile sürdürülebilir sistemler.
+* 🛡️ **Siber Güvenlik:** Ağ güvenliği ve sızma testleri üzerine çalışmalar.
 * 🔢 **Sayısal Analiz:** Mühendislik problemlerinin MATLAB ile simülasyonu.
 
 
