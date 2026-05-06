@@ -15,7 +15,7 @@ Osmaniye Korkut Ata Üniversitesi 2. sınıf öğrencisiyim. Yazılım dünyası
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
 
 
 ### 🎯 Odaklandığım Alanlar
