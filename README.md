@@ -25,11 +25,12 @@ Osmaniye Korkut Ata Üniversitesi 2. sınıf öğrencisiyim. Yazılım dünyası
 *  **Sayısal Analiz:** Mühendislik problemlerinin MATLAB ile simülasyonu.
 
 
+
 ## GitHub İstatistiklerim
 
-![Azize'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=azizeyuksek&show_icons=true&theme=tokyonight)
+![Azize'nin GitHub İstatistikleri](https://github-readme-stats-eight-theta.vercel.app/api?username=azizeyuksek&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizeyuksek&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizeyuksek&layout=compact&theme=tokyonight)
 
 
  **Bana Ulaşın:** [LinkedIn](https://www.linkedin.com/in/azize-y%C3%BCksek-70b45031a)
